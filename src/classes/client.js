@@ -1,4 +1,4 @@
-const HOST = "http://localhost:3000"
+const HOST = "https://game-zeta-sable.vercel.app:3000"
 import Phaser from "phaser";
 import { io } from "socket.io-client";
 
